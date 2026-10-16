@@ -1,0 +1,15 @@
+{
+  "iterations": 100,
+  "sample_rate_hz": 48000,
+  "signal_length": 4096,
+  "expected_delay_seconds": 0.0005,
+  "estimated_delay_seconds": 0.0005,
+  "latency_mean_ms": 3.208403209982862,
+  "latency_median_ms": 2.522928999951546,
+  "latency_max_ms": 10.133154999948601,
+  "latency_min_ms": 2.464661999965756,
+  "peak_traced_memory_kb": 1444.0078125,
+  "rss_before_kb": 39180.0,
+  "rss_after_kb": 40164.0,
+  "rss_change_kb": 984.0
+}

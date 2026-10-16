@@ -1,0 +1,14 @@
+{
+  "streams": {
+    "IMU": 100,
+    "Acoustic": 100,
+    "GPS": 100
+  },
+  "imu_packets_recovered": 3,
+  "alignment_rows": {
+    "IMU": 494,
+    "Acoustic": 494,
+    "GPS": 494
+  },
+  "results_file": "results/sensor_alignment.csv"
+}

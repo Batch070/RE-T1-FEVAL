@@ -1,0 +1,5 @@
+2026-10-16 06:57:42,984 | INFO | Recovered IMU packet sequence=20
+2026-10-16 06:57:42,985 | INFO | Recovered IMU packet sequence=21
+2026-10-16 06:57:42,985 | INFO | Recovered IMU packet sequence=22
+2026-10-16 06:57:42,985 | INFO | Successfully recovered three missing IMU packets
+2026-10-16 06:57:43,181 | INFO | Task 1 integration completed
